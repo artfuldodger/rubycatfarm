@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Let's learn how to build a website using Ruby on Rails ... for cats running a farm
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The posts are best read in order if you want to follow along with making a website using Ruby on Rails to help some cats run a farm. I hope to expand them into a book.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This site is run by Jon Evans. You can say hi on Twitter at [@jon_evans](https://twitter.com/jon_evans). By day, I am a developer at [Bonusly](https://bonus.ly), making work places more pleasant by letting employees recognize each other for doing good work.
